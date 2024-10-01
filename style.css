@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+background-color: #9ebbff; 
+}
+h1 {
+
+color: white;
+  font-family: 'Playwrite Australia NSW', cursive;
+}
+
+h3{
+  color: white;
+  font-family: 'playwrite Australia NSW', cursive;
+}
+
+p {
+color: white;
+  font-family: 'playwrite Australia NSW', cursive;
+}
+
+
+img {
+height: 150px;
+  width: 150px;
+}
+
+
+
+
+h1 {
+  font-family: 'Playwrite Australia NSW', cursive;
+}
+
+h3 {
+  font-family: 'Playwrite Australia NSW', Cursiva;
+}
+
+p {
+  font-family: 'playwrite australia NSW', cursive;
+}
+
